@@ -2089,11 +2089,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2458313388228714185, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 7.91
+      value: 7.86
       objectReference: {fileID: 0}
     - target: {fileID: 2458313388228714185, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 2.54
+      value: 2.48
       objectReference: {fileID: 0}
     - target: {fileID: 2458313388228714185, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2135,6 +2135,14 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 8e389bf814e82440c895c9921a23db8f, type: 2}
+    - target: {fileID: 6001470142203541818, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 3f148e4f2aceb42ffa6145615ae95bb1, type: 3}
+    - target: {fileID: 8489178638948977159, guid: dab177a95e19fed4c99ca6a6961c0007, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
